@@ -1,24 +1,20 @@
 Sample arcade game
 
-![Alt Arcade Game](https://github.com/omidraha/arcade/screenshot.png?raw=true "Arcade Game")
+![Alt Arcade Game](https://github.com/omidraha/arcade/blob/master/screenshot.png?raw=true "Arcade Game")
+
 
 Requirements:
 
-    ```
-    $ pip install pygame
-    ```
-    
+    $ python arcade.py
+
 How to use:
 
 1. Clone the arcade:
-
-    ```
-    $ git clone https://github.com/omidraha/arcade
-    ```
+    
+    ```$ git clone https://github.com/omidraha/arcade```
 
 2. Run it:
 
-    ```
-    $ python arcade.py
-     ```
-     
+   ```$ python arcade.py```
+
+
