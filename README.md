@@ -5,7 +5,7 @@ Sample arcade game
 
 Requirements:
 
-    $ python arcade.py
+    $ pip install pygame
 
 How to use:
 
